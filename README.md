@@ -9,10 +9,12 @@ For building and running the application you need:
 - [Maven 4](https://maven.apache.org)
 
 - Pour tirer une main de 10 cartes de manière aléatoire utiliser cette API
-/jeu/tirer-main
+
+  /jeu/tirer-main
 
 - Pour tirer une main triée utiliser cette API
-  jeu/tirer-main-triee
+
+  /jeu/tirer-main-triee
   
 
 
