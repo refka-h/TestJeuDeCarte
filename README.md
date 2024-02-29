@@ -1,12 +1,19 @@
 # Test project
 
-#springboot project
+#Jeu de carte
+
 
 For building and running the application you need:
 
 - [Java 17](https://www.oracle.com/java/technologies/downloads/#java17)
 - [Maven 4](https://maven.apache.org)
 
+- Pour tirer une main de 10 cartes de manière aléatoire utiliser cette API
+/jeu/tirer-main
+
+- Pour tirer une main triée utiliser cette API
+  jeu/tirer-main-triee
+  
 
 
 ## Running the application locally
